@@ -7,8 +7,7 @@
 
 ## Instructions
 
-In the labs throughout this section, we'll be working on building a small
-portfolio site in React.
+
 
 Our goal for the first lesson is to get the basic components for our app — the
 `<Navbar>`, `<Home>`, and `<About>` components — to be returned from the `<App>`
